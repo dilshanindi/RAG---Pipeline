@@ -55,7 +55,7 @@ The system is split into two primary pipelines to ensure the UI remains responsi
 
 ### 1. Prerequisites
 * Docker Desktop
-* Python 3.10+
+* Python 3.13
 * Groq API Key
 
 ### 2. Environment Configuration (`.env`)
